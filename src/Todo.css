@@ -1,0 +1,35 @@
+.todo_list{
+    text-align: center;
+    border-top: 1px solid #bbb;
+    background-color:#DCDCDC;
+}
+
+
+.modal{
+    align-content: center;
+}
+.editbut{
+     
+  transition-duration: 0.4s;
+}
+
+.editbut:hover {
+  background-color: #af7977; /* Green */
+  color: rgb(243, 50, 66);
+}
+.addtask{
+    color: #3f3f3f;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 6px 8px;
+}
+
+.inputme{
+    color: #265cc7;
+    font-size: 1.4rem;
+
+    font-weight: 500;
+}
